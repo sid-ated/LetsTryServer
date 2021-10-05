@@ -43,13 +43,13 @@ namespace LetsTry.Controllers
             return Ok(users);
         }
 
-        /*[HttpGet("all")]
+        [HttpGet]
         public async Task<IEnumerable<UserDto>> GetUsersAsync()
         {
             var users = (await repository.GetUsersAsync())
                         .Select(user => user.AsDto());
             return users;
-        }*/
+        }
 
 
         /*[HttpPut("{id}/update")]

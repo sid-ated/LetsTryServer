@@ -1,90 +1,135 @@
-\\Mac\Home\Desktop\DOT NET\LetsTry\bin\Debug\net5.0\appsettings.Development.json
-\\Mac\Home\Desktop\DOT NET\LetsTry\bin\Debug\net5.0\appsettings.json
-\\Mac\Home\Desktop\DOT NET\LetsTry\bin\Debug\net5.0\LetsTry.exe
-\\Mac\Home\Desktop\DOT NET\LetsTry\bin\Debug\net5.0\LetsTry.deps.json
-\\Mac\Home\Desktop\DOT NET\LetsTry\bin\Debug\net5.0\LetsTry.runtimeconfig.json
-\\Mac\Home\Desktop\DOT NET\LetsTry\bin\Debug\net5.0\LetsTry.runtimeconfig.dev.json
-\\Mac\Home\Desktop\DOT NET\LetsTry\bin\Debug\net5.0\LetsTry.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry\bin\Debug\net5.0\ref\LetsTry.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry\bin\Debug\net5.0\LetsTry.pdb
-\\Mac\Home\Desktop\DOT NET\LetsTry\bin\Debug\net5.0\Microsoft.OpenApi.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry\obj\Debug\net5.0\LetsTry.csproj.AssemblyReference.cache
-\\Mac\Home\Desktop\DOT NET\LetsTry\obj\Debug\net5.0\LetsTry.GeneratedMSBuildEditorConfig.editorconfig
-\\Mac\Home\Desktop\DOT NET\LetsTry\obj\Debug\net5.0\LetsTry.AssemblyInfoInputs.cache
-\\Mac\Home\Desktop\DOT NET\LetsTry\obj\Debug\net5.0\LetsTry.AssemblyInfo.cs
-\\Mac\Home\Desktop\DOT NET\LetsTry\obj\Debug\net5.0\LetsTry.csproj.CoreCompileInputs.cache
-\\Mac\Home\Desktop\DOT NET\LetsTry\obj\Debug\net5.0\LetsTry.MvcApplicationPartsAssemblyInfo.cs
-\\Mac\Home\Desktop\DOT NET\LetsTry\obj\Debug\net5.0\LetsTry.MvcApplicationPartsAssemblyInfo.cache
-\\Mac\Home\Desktop\DOT NET\LetsTry\obj\Debug\net5.0\staticwebassets\LetsTry.StaticWebAssets.Manifest.cache
-\\Mac\Home\Desktop\DOT NET\LetsTry\obj\Debug\net5.0\staticwebassets\LetsTry.StaticWebAssets.xml
-\\Mac\Home\Desktop\DOT NET\LetsTry\obj\Debug\net5.0\scopedcss\bundle\LetsTry.styles.css
-\\Mac\Home\Desktop\DOT NET\LetsTry\obj\Debug\net5.0\LetsTry.RazorTargetAssemblyInfo.cache
-\\Mac\Home\Desktop\DOT NET\LetsTry\obj\Debug\net5.0\LetsTry.csproj.CopyComplete
-\\Mac\Home\Desktop\DOT NET\LetsTry\obj\Debug\net5.0\LetsTry.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry\obj\Debug\net5.0\ref\LetsTry.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry\obj\Debug\net5.0\LetsTry.pdb
-\\Mac\Home\Desktop\DOT NET\LetsTry\obj\Debug\net5.0\LetsTry.genruntimeconfig.cache
-\\Mac\Home\Desktop\DOT NET\LetsTry\bin\Debug\net5.0\DnsClient.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry\bin\Debug\net5.0\MongoDB.Bson.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry\bin\Debug\net5.0\MongoDB.Driver.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry\bin\Debug\net5.0\MongoDB.Driver.Core.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry\bin\Debug\net5.0\SharpCompress.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
-\\Mac\Home\Desktop\DOT NET\LetsTry\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
-\\Mac\Home\Desktop\DOT NET\LetsTry\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry\bin\Debug\net5.0\Newtonsoft.Json.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\obj\Debug\net5.0\LetsTry.csproj.AssemblyReference.cache
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\obj\Debug\net5.0\LetsTry.GeneratedMSBuildEditorConfig.editorconfig
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\obj\Debug\net5.0\LetsTry.AssemblyInfoInputs.cache
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\obj\Debug\net5.0\LetsTry.AssemblyInfo.cs
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\obj\Debug\net5.0\LetsTry.csproj.CoreCompileInputs.cache
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\obj\Debug\net5.0\LetsTry.MvcApplicationPartsAssemblyInfo.cs
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\obj\Debug\net5.0\LetsTry.MvcApplicationPartsAssemblyInfo.cache
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\obj\Debug\net5.0\LetsTry.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\obj\Debug\net5.0\ref\LetsTry.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\obj\Debug\net5.0\LetsTry.pdb
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\bin\Debug\net5.0\appsettings.Development.json
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\bin\Debug\net5.0\appsettings.json
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\bin\Debug\net5.0\LetsTry.exe
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\bin\Debug\net5.0\LetsTry.deps.json
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\bin\Debug\net5.0\LetsTry.runtimeconfig.json
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\bin\Debug\net5.0\LetsTry.runtimeconfig.dev.json
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\bin\Debug\net5.0\LetsTry.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\bin\Debug\net5.0\ref\LetsTry.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\bin\Debug\net5.0\LetsTry.pdb
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\bin\Debug\net5.0\DnsClient.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\bin\Debug\net5.0\Microsoft.OpenApi.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\bin\Debug\net5.0\MongoDB.Bson.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\bin\Debug\net5.0\MongoDB.Driver.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\bin\Debug\net5.0\MongoDB.Driver.Core.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\bin\Debug\net5.0\Newtonsoft.Json.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\bin\Debug\net5.0\SharpCompress.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\obj\Debug\net5.0\staticwebassets\LetsTry.StaticWebAssets.Manifest.cache
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\obj\Debug\net5.0\staticwebassets\LetsTry.StaticWebAssets.xml
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\obj\Debug\net5.0\scopedcss\bundle\LetsTry.styles.css
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\obj\Debug\net5.0\LetsTry.RazorTargetAssemblyInfo.cache
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\obj\Debug\net5.0\LetsTry.csproj.CopyComplete
-\\Mac\Home\Desktop\DOT NET\LetsTry - Copy\obj\Debug\net5.0\LetsTry.genruntimeconfig.cache
+//Mac/Home/Desktop/DOT NET/LetsTry/bin/Debug/net5.0/appsettings.Development.json
+//Mac/Home/Desktop/DOT NET/LetsTry/bin/Debug/net5.0/appsettings.json
+//Mac/Home/Desktop/DOT NET/LetsTry/bin/Debug/net5.0/LetsTry.exe
+//Mac/Home/Desktop/DOT NET/LetsTry/bin/Debug/net5.0/LetsTry.deps.json
+//Mac/Home/Desktop/DOT NET/LetsTry/bin/Debug/net5.0/LetsTry.runtimeconfig.json
+//Mac/Home/Desktop/DOT NET/LetsTry/bin/Debug/net5.0/LetsTry.runtimeconfig.dev.json
+//Mac/Home/Desktop/DOT NET/LetsTry/bin/Debug/net5.0/LetsTry.dll
+//Mac/Home/Desktop/DOT NET/LetsTry/bin/Debug/net5.0/ref/LetsTry.dll
+//Mac/Home/Desktop/DOT NET/LetsTry/bin/Debug/net5.0/LetsTry.pdb
+//Mac/Home/Desktop/DOT NET/LetsTry/bin/Debug/net5.0/Microsoft.OpenApi.dll
+//Mac/Home/Desktop/DOT NET/LetsTry/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+//Mac/Home/Desktop/DOT NET/LetsTry/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+//Mac/Home/Desktop/DOT NET/LetsTry/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+//Mac/Home/Desktop/DOT NET/LetsTry/obj/Debug/net5.0/LetsTry.csproj.AssemblyReference.cache
+//Mac/Home/Desktop/DOT NET/LetsTry/obj/Debug/net5.0/LetsTry.GeneratedMSBuildEditorConfig.editorconfig
+//Mac/Home/Desktop/DOT NET/LetsTry/obj/Debug/net5.0/LetsTry.AssemblyInfoInputs.cache
+//Mac/Home/Desktop/DOT NET/LetsTry/obj/Debug/net5.0/LetsTry.AssemblyInfo.cs
+//Mac/Home/Desktop/DOT NET/LetsTry/obj/Debug/net5.0/LetsTry.csproj.CoreCompileInputs.cache
+//Mac/Home/Desktop/DOT NET/LetsTry/obj/Debug/net5.0/LetsTry.MvcApplicationPartsAssemblyInfo.cs
+//Mac/Home/Desktop/DOT NET/LetsTry/obj/Debug/net5.0/LetsTry.MvcApplicationPartsAssemblyInfo.cache
+//Mac/Home/Desktop/DOT NET/LetsTry/obj/Debug/net5.0/staticwebassets/LetsTry.StaticWebAssets.Manifest.cache
+//Mac/Home/Desktop/DOT NET/LetsTry/obj/Debug/net5.0/staticwebassets/LetsTry.StaticWebAssets.xml
+//Mac/Home/Desktop/DOT NET/LetsTry/obj/Debug/net5.0/scopedcss/bundle/LetsTry.styles.css
+//Mac/Home/Desktop/DOT NET/LetsTry/obj/Debug/net5.0/LetsTry.RazorTargetAssemblyInfo.cache
+//Mac/Home/Desktop/DOT NET/LetsTry/obj/Debug/net5.0/LetsTry.csproj.CopyComplete
+//Mac/Home/Desktop/DOT NET/LetsTry/obj/Debug/net5.0/LetsTry.dll
+//Mac/Home/Desktop/DOT NET/LetsTry/obj/Debug/net5.0/ref/LetsTry.dll
+//Mac/Home/Desktop/DOT NET/LetsTry/obj/Debug/net5.0/LetsTry.pdb
+//Mac/Home/Desktop/DOT NET/LetsTry/obj/Debug/net5.0/LetsTry.genruntimeconfig.cache
+//Mac/Home/Desktop/DOT NET/LetsTry/bin/Debug/net5.0/DnsClient.dll
+//Mac/Home/Desktop/DOT NET/LetsTry/bin/Debug/net5.0/MongoDB.Bson.dll
+//Mac/Home/Desktop/DOT NET/LetsTry/bin/Debug/net5.0/MongoDB.Driver.dll
+//Mac/Home/Desktop/DOT NET/LetsTry/bin/Debug/net5.0/MongoDB.Driver.Core.dll
+//Mac/Home/Desktop/DOT NET/LetsTry/bin/Debug/net5.0/MongoDB.Libmongocrypt.dll
+//Mac/Home/Desktop/DOT NET/LetsTry/bin/Debug/net5.0/SharpCompress.dll
+//Mac/Home/Desktop/DOT NET/LetsTry/bin/Debug/net5.0/runtimes/win/native/libzstd.dll
+//Mac/Home/Desktop/DOT NET/LetsTry/bin/Debug/net5.0/runtimes/win/native/snappy32.dll
+//Mac/Home/Desktop/DOT NET/LetsTry/bin/Debug/net5.0/runtimes/win/native/snappy64.dll
+//Mac/Home/Desktop/DOT NET/LetsTry/bin/Debug/net5.0/runtimes/linux/native/libmongocrypt.so
+//Mac/Home/Desktop/DOT NET/LetsTry/bin/Debug/net5.0/runtimes/osx/native/libmongocrypt.dylib
+//Mac/Home/Desktop/DOT NET/LetsTry/bin/Debug/net5.0/runtimes/win/native/mongocrypt.dll
+//Mac/Home/Desktop/DOT NET/LetsTry/bin/Debug/net5.0/Microsoft.AspNetCore.JsonPatch.dll
+//Mac/Home/Desktop/DOT NET/LetsTry/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+//Mac/Home/Desktop/DOT NET/LetsTry/bin/Debug/net5.0/Newtonsoft.Json.dll
+//Mac/Home/Desktop/DOT NET/LetsTry/bin/Debug/net5.0/Newtonsoft.Json.Bson.dll
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/obj/Debug/net5.0/LetsTry.csproj.AssemblyReference.cache
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/obj/Debug/net5.0/LetsTry.GeneratedMSBuildEditorConfig.editorconfig
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/obj/Debug/net5.0/LetsTry.AssemblyInfoInputs.cache
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/obj/Debug/net5.0/LetsTry.AssemblyInfo.cs
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/obj/Debug/net5.0/LetsTry.csproj.CoreCompileInputs.cache
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/obj/Debug/net5.0/LetsTry.MvcApplicationPartsAssemblyInfo.cs
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/obj/Debug/net5.0/LetsTry.MvcApplicationPartsAssemblyInfo.cache
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/obj/Debug/net5.0/LetsTry.dll
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/obj/Debug/net5.0/ref/LetsTry.dll
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/obj/Debug/net5.0/LetsTry.pdb
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/appsettings.Development.json
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/appsettings.json
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/LetsTry.exe
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/LetsTry.deps.json
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/LetsTry.runtimeconfig.json
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/LetsTry.runtimeconfig.dev.json
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/LetsTry.dll
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/ref/LetsTry.dll
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/LetsTry.pdb
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/DnsClient.dll
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/Microsoft.AspNetCore.JsonPatch.dll
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/Microsoft.OpenApi.dll
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/MongoDB.Bson.dll
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/MongoDB.Driver.dll
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/MongoDB.Driver.Core.dll
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/MongoDB.Libmongocrypt.dll
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/Newtonsoft.Json.dll
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/Newtonsoft.Json.Bson.dll
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/SharpCompress.dll
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/runtimes/win/native/libzstd.dll
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/runtimes/win/native/snappy32.dll
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/runtimes/win/native/snappy64.dll
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/runtimes/linux/native/libmongocrypt.so
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/runtimes/osx/native/libmongocrypt.dylib
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/runtimes/win/native/mongocrypt.dll
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/obj/Debug/net5.0/staticwebassets/LetsTry.StaticWebAssets.Manifest.cache
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/obj/Debug/net5.0/staticwebassets/LetsTry.StaticWebAssets.xml
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/obj/Debug/net5.0/scopedcss/bundle/LetsTry.styles.css
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/obj/Debug/net5.0/LetsTry.RazorTargetAssemblyInfo.cache
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/obj/Debug/net5.0/LetsTry.csproj.CopyComplete
+//Mac/Home/Desktop/DOT NET/LetsTry - Copy/obj/Debug/net5.0/LetsTry.genruntimeconfig.cache
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/appsettings.Development.json
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/appsettings.json
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/LetsTry.deps.json
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/LetsTry.runtimeconfig.json
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/LetsTry.runtimeconfig.dev.json
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/LetsTry.dll
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/ref/LetsTry.dll
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/LetsTry.pdb
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/DnsClient.dll
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/MongoDB.Bson.dll
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/MongoDB.Driver.dll
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/MongoDB.Driver.Core.dll
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/MongoDB.Libmongocrypt.dll
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/Newtonsoft.Json.Bson.dll
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/SharpCompress.dll
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/runtimes/win/native/libzstd.dll
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/runtimes/win/native/snappy32.dll
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/runtimes/win/native/snappy64.dll
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/runtimes/linux/native/libmongocrypt.so
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/runtimes/win/native/mongocrypt.dll
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/obj/Debug/net5.0/LetsTry.csproj.AssemblyReference.cache
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/obj/Debug/net5.0/LetsTry.GeneratedMSBuildEditorConfig.editorconfig
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/obj/Debug/net5.0/LetsTry.AssemblyInfoInputs.cache
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/obj/Debug/net5.0/LetsTry.AssemblyInfo.cs
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/obj/Debug/net5.0/LetsTry.csproj.CoreCompileInputs.cache
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/obj/Debug/net5.0/LetsTry.MvcApplicationPartsAssemblyInfo.cs
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/obj/Debug/net5.0/LetsTry.MvcApplicationPartsAssemblyInfo.cache
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/obj/Debug/net5.0/staticwebassets/LetsTry.StaticWebAssets.Manifest.cache
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/obj/Debug/net5.0/staticwebassets/LetsTry.StaticWebAssets.xml
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/obj/Debug/net5.0/scopedcss/bundle/LetsTry.styles.css
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/obj/Debug/net5.0/LetsTry.RazorTargetAssemblyInfo.cache
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/obj/Debug/net5.0/LetsTry.csproj.CopyComplete
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/obj/Debug/net5.0/LetsTry.dll
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/obj/Debug/net5.0/ref/LetsTry.dll
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/obj/Debug/net5.0/LetsTry.pdb
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/obj/Debug/net5.0/LetsTry.genruntimeconfig.cache
+/Users/siddharthashukla/Desktop/DOT NET/LetsTry - Copy/bin/Debug/net5.0/System.Text.Json.dll

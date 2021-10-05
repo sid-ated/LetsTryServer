@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{7335F4BC-6D30-4903-B94A-D06C01CB7E0C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Repositories/MongoDbItemsRepository.cs">
+    <Files>
+      <File FileName="Controllers/UsersController.cs" Line="1" Column="1" />
+      <File FileName="Controllers/RegistrationController.cs" Line="1" Column="1" />
+      <File FileName="Repositories/MongoDbItemsRepository.cs" Line="68" Column="59" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LetsTry" expanded="True">
+            <Node name="LetsTry" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Dtos" expanded="True" />
+              <Node name="Repositories" expanded="True">
+                <Node name="MongoDbItemsRepository.cs" selected="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LetsTry PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

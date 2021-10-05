@@ -2,6 +2,7 @@
 using LetsTry.Entities;
 using LetsTry.Repositories;
 using Microsoft.AspNetCore.Mvc;
+using MongoDB.Bson;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -21,15 +22,16 @@ namespace LetsTry.Controllers
         }
 
         [HttpPost]
-        public async Task<ActionResult> KycVerificationAsync(CreatedUserDto userDto)
+        public async Task<ActionResult<string>> KycVerificationAsync(CreatedUserDto userDto)
         {
+
             var kycVerified = await repository.KycVerificationAsync(userDto);
 
             if (kycVerified == false)
             {
-                return StatusCode(200, "KYC Unverified");
+                return StatusCode(200, "KYC Unverified").ToJson();
             }
-            return Ok("KYC Verified");
+            return Ok("KYC Verified").ToJson();
 
         }
     }

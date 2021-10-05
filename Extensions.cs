@@ -1,5 +1,6 @@
 ﻿using LetsTry.Dtos;
 using LetsTry.Entities;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -22,5 +23,6 @@ namespace LetsTry
                 EmailId = user.EmailId
             };
         }
+
     }
 }
